@@ -61,5 +61,3 @@ Designed for scalability and reliability, PaySync offers smooth payroll processi
 
 
 ---
-
-### ⭐ If you like this project, give it a star on GitHub!
